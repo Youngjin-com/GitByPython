@@ -1,6 +1,6 @@
 # 파이썬 코드로 배우는 Git&Github
 
-<img src="https://www.youngjin.com/images/book_cover/9788931467659.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931467659.png" height="350px" style="border: 2px solid grey;">
 
 [파이썬 코드로 배우는 Git&Github(영진닷컴)](https://blog.naver.com/ydot/222918360308)
 
